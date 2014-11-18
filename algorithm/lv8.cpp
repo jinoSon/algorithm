@@ -1,4 +1,4 @@
-//cryption
+/*//cryption
 #include <stdio.h>
 
 int arr[9];
@@ -94,7 +94,7 @@ int main(){
 	return 0;
 }
 
-
+//*
 
 /*self_num
 #include <stdio.h>

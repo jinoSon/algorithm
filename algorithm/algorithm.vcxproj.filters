@@ -27,5 +27,8 @@
     <ClCompile Include="book1.cpp">
       <Filter>Algospot</Filter>
     </ClCompile>
+    <ClCompile Include="lv9.cpp">
+      <Filter>Dovlet</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

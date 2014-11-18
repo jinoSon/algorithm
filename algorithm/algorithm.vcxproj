@@ -67,6 +67,7 @@
   <ItemGroup>
     <ClCompile Include="book1.cpp" />
     <ClCompile Include="lv8.cpp" />
+    <ClCompile Include="lv9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
